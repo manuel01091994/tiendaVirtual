@@ -31,7 +31,7 @@ $error="Usuario/Clave no registrados";
 	
 		<!-- Website Font style -->
 	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-		<title>Ingreso Administrador | Frutas y Verduras</title>
+		<title>Ingreso Administrador | Tienda Virtual Poli</title>
 		
 		<style>
 			#success_message{ 
